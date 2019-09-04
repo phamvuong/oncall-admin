@@ -29,11 +29,11 @@ setuptools.setup(
         'PyMySQL==0.7.2',
         'pyparsing==2.2.0',
         'python-mimeparse==1.6.0',
-        'PyYAML==3.11',
+        'PyYAML',
         'six==1.10.0',
         'SQLAlchemy==1.0.11',
         'phonenumbers==7.4.1',
         'ujson==1.35',
-        'python-ldap==2.4.9'
+        'python-ldap'
     ],
 )
